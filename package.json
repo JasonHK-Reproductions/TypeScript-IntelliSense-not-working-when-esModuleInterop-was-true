@@ -1,0 +1,20 @@
+{
+  "name": "typescript-intellisense-not-working-when-esmoduleinterop-was-true",
+  "version": "0.0.0",
+  "private": true,
+  "description": "TypeScript's IntelliSense not working when esModuleInterop was `true`.",
+  "homepage": "https://github.com/JasonHK-Reproductions/TypeScript-IntelliSense-not-working-when-esModuleInterop-was-true#readme",
+  "bugs": {
+    "url": "https://github.com/JasonHK-Reproductions/TypeScript-IntelliSense-not-working-when-esModuleInterop-was-true/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonHK-Reproductions/TypeScript-IntelliSense-not-working-when-esModuleInterop-was-true.git"
+  },
+  "license": "Unlicense",
+  "author": "Jason Kwok <github@jasonhk.email> (https://jasonhk.net/)",
+  "devDependencies": {
+    "swagger-parser": "^10.0.1",
+    "typescript": "^4.0.2"
+  }
+}
